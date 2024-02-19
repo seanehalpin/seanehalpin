@@ -8,7 +8,7 @@ These days, I focus on leading design at GiveDirectly, a nonprofit that lets don
 
 #### 🔭 I’m currently working on ...
 
-[Droplette](https://www.droplette.app/), A Figma plugin for creating smart, AI-driven color palettes effortlessly. Launching soon.
+[Droplette](https://www.droplette.app/), a Figma plugin for creating smart, AI-driven color palettes effortlessly. Launching soon.
 
 <!--
 **seanehalpin/seanehalpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
