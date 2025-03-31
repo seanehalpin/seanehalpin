@@ -4,11 +4,11 @@ I'm a Product Designer working remotely from Dublin, Ireland.
 
 Over the past 12+ years, I've worked in various areas of digital design, including front-end development, email, marketing, and app UI/UX. I'm proud to have worn many hats.
 
-These days, I'm a lead designer at Tines.
+These days, I'm a lead designer at [Tines](https://www.tines.com/).
 
 #### 🔭 I’m currently working on ...
 
-[Colorspace.dev](https://www.colorspace.dev/), a tool to create color palettes using perceptually uniform color spaces.
+[Colorspace.dev](https://www.colorspace.dev/) - a tool to create color palettes using perceptually uniform color spaces.
 
 <!--
 **seanehalpin/seanehalpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
