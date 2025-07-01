@@ -9,6 +9,7 @@ These days, I'm a lead designer at [Tines](https://www.tines.com/).
 #### 🔭 I’m currently working on ...
 
 [Colorspace.dev](https://www.colorspace.dev/) - a tool to create color palettes using perceptually uniform color spaces.
+[UIXP](https://uixp.vercel.app/) - a playground of real world devices created in CSS 
 
 <!--
 **seanehalpin/seanehalpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
